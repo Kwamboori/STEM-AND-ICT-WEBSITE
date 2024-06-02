@@ -1,0 +1,29 @@
+.website-title{
+height: 450px;
+padding-top: 300px;
+    padding-right: 200px;
+    padding-left: 250px;
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family: Bitter;
+}
+
+
+
+.text-decoration
+{text-decoration: none;
+    color: rgb(255, 255, 255);
+
+}
+.text-decoration:hover{
+color: black;
+}
+
+.web-dec {
+    text-decoration: none;
+    color: rgb(27, 50, 103);
+    font-family: jaro;
+}
+
+  

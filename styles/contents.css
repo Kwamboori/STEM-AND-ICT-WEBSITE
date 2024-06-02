@@ -1,0 +1,65 @@
+.about {
+  text-align: center;
+}
+.stemict-logo{
+margin-top: 20px;
+margin-left: 30px;
+border-radius: 200px;
+  width: 40%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.info {
+  font-size: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  color: rgb (169, 178, 173);
+}
+
+
+.News {
+  background-color: rgb(213, 241, 252);
+  flex-direction: column;
+  border-style: none;
+  padding-top: 30px;
+
+}
+.news-contents {
+  padding-top: 20px;
+
+}
+
+.p-design{
+  background-color: rgb(248, 255, 253);
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: rgb(56, 54, 45);
+font-family:bitter;
+font-size: 20px;
+}
+
+.contents{
+  
+  font-size: 30px;
+  margin-top: 20px;
+margin: none;
+font-family: Bitter;
+}
+
+
+
+
+.news-eventpage {
+height: max-content;
+font-size: 50px;
+font-family: Bitter;
+padding-top: 30px;
+padding-bottom: 300px;
+}
+
+.home {
+  text-decoration: none;
+}
